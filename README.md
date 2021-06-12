@@ -1,4 +1,10 @@
 ### Hi there | こんにちは 👋
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=thanhhff&show_icons=true&locale=en" alt="dangnam739">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhff&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+</p>
+
 <!--
 **thanhhff/thanhhff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
