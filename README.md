@@ -1,7 +1,7 @@
 ### Hi there | こんにちは 👋
-My website: https://thanhhff.github.io/
-Google Scholar: https://scholar.google.com/citations?user=QSV452QAAAAJ
-LinkedIn: https://www.linkedin.com/in/thanhhff/
+- My website: https://thanhhff.github.io/
+- Google Scholar: https://scholar.google.com/citations?user=QSV452QAAAAJ
+- LinkedIn: https://www.linkedin.com/in/thanhhff/
 
 <!--
 <p align="center">
